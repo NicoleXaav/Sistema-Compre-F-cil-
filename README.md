@@ -74,6 +74,9 @@ A solução é desenvolvida com foco em acessibilidade e autonomia, oferecendo c
 
 ---
 
+<img width="1343" height="636" alt="Captura de tela 2026-11-13 200942" src="https://github.com/user-attachments/assets/44c5b860-da18-4ce9-b533-298d1ebc98d6" />
+
+
 ## 4. Fluxos de uso
 
 ### 4.1 Fluxo geral
